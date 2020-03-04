@@ -85,6 +85,7 @@
         android:layout_marginTop="20dp"
         android:textSize="20sp"
         tools:layout_editor_absoluteX="100dp"
-        tools:layout_editor_absoluteY="171dp" />
+        tools:layout_editor_absoluteY="171dp"
+        />
 
 </LinearLayout>
